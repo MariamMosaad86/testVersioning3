@@ -1,2 +1,2 @@
 Hello, GitHub
-Wecome to code version control
+Welcome to code version control
